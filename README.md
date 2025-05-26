@@ -7,7 +7,7 @@
 # Hi, I'm Fireab 👋
 
 ```txt
-Backend Dev | Microservices Architect | Node.js & Golang Craftsman
+Backend Dev | Microservices Architect | Node.js & Golang 
 ```
 
 ---
