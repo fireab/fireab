@@ -35,6 +35,8 @@ Backend Dev | Microservices Architect | Node.js & Golang
 🧠 REST + GraphQL (Apollo Server)
 ```
 
+## 🧑‍💻 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireab&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
@@ -49,7 +51,6 @@ Backend Dev | Microservices Architect | Node.js & Golang
 💼 linkedin.com/in/fireab408
 ```
 
-## 🧑‍💻 Most Used Languages
 
 
 
