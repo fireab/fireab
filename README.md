@@ -1,6 +1,8 @@
-                  (•_•)
-                 <)   )╯🔥🔥🔥
-                 /   \   MY SERVER IS FINE.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" alt="Stickman Animation" />
+</p>
+
 
 # Hi, I'm Fireab 👋
 
@@ -33,6 +35,10 @@ Backend Dev | Microservices Architect | Node.js & Golang Craftsman
 🧠 REST + GraphQL (Apollo Server)
 ```
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireab&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
+
 
 ---
 
@@ -42,5 +48,10 @@ Backend Dev | Microservices Architect | Node.js & Golang Craftsman
 📭 fireab4@gmail.com
 💼 linkedin.com/in/fireab408
 ```
+
+## 🧑‍💻 Most Used Languages
+
+
+
 
 > _"Ship it. Even if it's on fire."_ 🔥🚢
