@@ -1,16 +1,26 @@
-# Hi there, I'm Fireab 👋
+<h1 align="center">Hey, I'm Fireab 👨‍💻</h1>
+<p align="center">
+  <img src="meme.png" width="200px" />
+</p>
 
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Full-stack+developer+%7C+Professional+bug+breeder+%F0%9F%90%9B;React.+Node.+Python...+what+could+go+wrong%3F)
+<p align="center">
+  <b>Full-stack developer | Backend microservices engineer | Code wizard in Node.js & Golang</b>
+</p>
+<p align="center">
+  <i>Yes, my server is on fire. That means it’s deploying.</i>
+</p>
 
-## 😈 About Me
+---
 
-```py
-class Fireab:
-    def __init__(self):
-        self.code = ["Python", "Node.js", "React"]
-        self.stack = "Full-Stack"
-        self.coffee = True
-        self.pc_status = "🔥 on fire (working as expected)"
-    
-    def __str__(self):
-        return "Professional Chaos Engineer"
+## 🧠 About Me
+
+```ts
+const fireab = {
+  languages: ["TypeScript", "Go", "Python", "JavaScript"],
+  backend: ["Node.js", "Golang", "Express", "Gin", "gRPC", "Redis", "RabbitMQ", "MySQL", "PostgreSQL"],
+  frontend: ["React", "Tailwind", "Next.js"],
+  devops: ["Docker", "CI/CD", "AWS S3", "Prometheus", "Grafana", "NGINX", "Konga"],
+  architecture: ["Monolith → Microservices", "Event-Driven", "Pub/Sub", "Change Data Capture"],
+  tools: ["GitHub", "Jenkins", "Neovim", "tmux"],
+  philosophy: "Push to main and pray 🙏",
+}
