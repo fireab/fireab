@@ -38,7 +38,7 @@ Backend Dev | Microservices Architect | Node.js & Golang
 ## 🧑‍💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireab&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireab&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 
