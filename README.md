@@ -55,4 +55,4 @@ Backend Dev | Microservices Architect | Node.js & Golang
 
 
 
-> _"Ship it. Even if it's on fire."_ 🔥🚢
+> _"Runs on my machine. Good luck!" 🖥️🔥
