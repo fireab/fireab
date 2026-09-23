@@ -2,7 +2,7 @@
 
 ```txt
 Software Engineer
-Learning how they work, building things, and making them better.
+Learning how things work, building things, and making them better.
 ```
 
 ### Currently
